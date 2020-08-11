@@ -1,12 +1,12 @@
 # Convolutional Neural Network
 This repo is dedicated for all CNN related projects.
 
-## Data Augmentation/Image Preprocessing
+##### Data Augmentation/Image Preprocessing
 
-## Edge Detection
+##### Edge Detection
 
-## Object Detection
+##### Object Detection
 
-## Face Recognition
+##### Face Recognition
 
 
